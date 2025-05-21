@@ -1,4 +1,6 @@
 target/
 main
+/variable/*
+!/variable/*.rs
 main.exe
 main.pdb
