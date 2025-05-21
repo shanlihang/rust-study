@@ -1,2 +1,5 @@
 target/
 main
+# 先忽略所有文件，在反向排除想管理的文件
+/variable/*
+!/variable/*.rs
