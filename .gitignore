@@ -2,5 +2,7 @@ target/
 main
 /variable/*
 !/variable/*.rs
+/datatype/*
+!/datatype/*.rs
 main.exe
 main.pdb

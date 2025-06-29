@@ -1,0 +1,23 @@
+{
+  "cSpell.words": [
+    "autocfg",
+    "cdylib",
+    "corasick",
+    "demangle",
+    "fastrand",
+    "gimli",
+    "gobject",
+    "libc",
+    "memchr",
+    "miniz",
+    "rlib",
+    "rustc",
+    "rustix",
+    "serde",
+    "staticlib",
+    "stdlib",
+    "tauri",
+    "tzdata",
+    "vite"
+  ]
+}
